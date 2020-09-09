@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GooglePhaseTwo</string>
+    <string name="question_mark">\?</string>
+    <string name="are_you_sure">Are you sure</string>
+    <string name="yes">Yes</string>
+    <string name="successful">Submission Succesful</string>
+    <string name="not_successful">Submission Not Successful</string>
+</resources>
